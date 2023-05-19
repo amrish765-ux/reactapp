@@ -10,6 +10,8 @@ function App() {
         <p>
           Edit <code>src/App.js</code> Amrish Kumar software engineer.
         </p>
+        <p>Hello All
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
